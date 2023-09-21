@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "axios": "^1.5.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "dotnet": "^1.1.4",
+    "express": "^4.18.2",
+    "mongodb": "^6.1.0",
+    "mongoose": "^7.5.2",
+    "nodemon": "^3.0.1",
+    "react-icons": "^4.11.0"
+  },
+  "name": "basic-banking-system",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js",
+    "dev": "nodemon ./api/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arthi0410/Basic_Banking_System.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arthi0410/Basic_Banking_System/issues"
+  },
+  "homepage": "https://github.com/Arthi0410/Basic_Banking_System#readme",
+  "description": ""
+}

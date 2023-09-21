@@ -1,0 +1,19 @@
+.mainpg {
+    display: flex;
+    justify-content: center;
+}
+
+.mainpgl {
+    padding: 100px 80px;
+    font-family: 'Nunito', sans-serif;
+}
+
+.mainpgr {
+    width: 2000px;
+    padding: 40px 20px;
+}
+
+.image {
+    width: 2000px;
+    height: 550px;
+}

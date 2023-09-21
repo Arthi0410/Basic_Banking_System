@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;600;700&display=swap');
+
+.nav {
+    display: flex;
+    flex-direction: row;
+    background-color: #8A2BE2;
+    justify-content: space-between;
+    padding: 13px 15px;
+}
+
+.left {
+    font-family: 'Nunito', sans-serif;
+    font-size: x-large;
+    font-weight: 700;
+    color: whitesmoke;
+    padding-left: 10px;
+}
+
+.right {
+    display: flex;
+    gap: 20px;
+    font-size: medium;
+    color: whitesmoke;
+    font-family: 'Nunito', sans-serif;
+    padding-right: 10px;
+}
+
+.nav-link {
+    padding-top: 7.5px;
+    color: whitesmoke;
+}
